@@ -8,6 +8,6 @@ University project for analysis digital circuit and then implement it using VHDL
 ## analysis of circuit:
 >![circuit](https://user-images.githubusercontent.com/82968741/211465502-8839d365-abc6-4f75-a156-bebd2faa75ef.png)
 
-## explain analysis of digital circuit and VHDL code:
+## analysis of digital circuit and VHDL code:
 >[doc.pdf](https://github.com/MohammadMahdi80/Digital-design-VHDL/files/10379009/doc.pdf)
 
